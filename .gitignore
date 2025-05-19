@@ -172,3 +172,8 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+model/
+training_log.txt
+unique_tags.txt
+custom-model/tag_index.json
+tf-gpu-env/bin/
