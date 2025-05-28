@@ -37,7 +37,7 @@ source tf-gpu/bin/activate
 
 ```
 pip install --upgrade pip
-pip install tensorflow[and-cuda] pillow scikit-learn tqdm numpy
+pip install tensorflow[and-cuda] pillow scikit-learn tqdm numpy pandas
 ```
 
 ## Test GPU detection
